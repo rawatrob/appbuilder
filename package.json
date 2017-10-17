@@ -1,15 +1,22 @@
 {
   "name": "appbuildersoftware",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is appypie appbuilder Demo Tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "readme": "README.md",
   "author": "Rawat",
   "license": "ISC",
   "keywords": [
     "AppBuilderTool"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawatrob/appbuilder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rawatrob/appbuilder/issues"
+  },
+  "homepage": "https://github.com/rawatrob/appbuilder#readme"
 }
