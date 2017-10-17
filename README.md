@@ -1,5 +1,5 @@
 # App Builder Software
-> Build and publish cross-platform PWA/hybrid and native apps using a single pure web language (HTML5, CSS, and js  etc ) code base
+> Build and publish cross-platform PWA/hybrid and native apps using a single click
 
 [![N|Solid](http://snappy.appypie.com/appypielogo/appypie.png "AppBuilderSoftware")](https://www.appypie.com/)
 
