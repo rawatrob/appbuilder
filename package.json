@@ -1,0 +1,15 @@
+{
+  "name": "appbuildersoftware",
+  "version": "1.0.3",
+  "description": "this is appypie appbuilder Demo Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "readme": "README.md",
+  "author": "Rawat",
+  "license": "ISC",
+  "keywords": [
+    "AppBuilderTool"
+  ]
+}
